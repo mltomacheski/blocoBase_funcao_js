@@ -1,0 +1,1 @@
+# blocoBase_funcao_js
